@@ -26,7 +26,7 @@ export default defineConfig({
       {
         text: 'Framework Integration',
         items: [
-          { text: 'React', link: '/getting-started' },
+          { text: 'React', link: '/reactjs-integration' },
           { text: 'VueJS', link: '/api-references' },
           { text: 'Angular', link: '/api-references' },
           { text: 'Svelte', link: '/api-references' },
